@@ -671,16 +671,24 @@
 @media only screen and (min-width: 576px) and (max-width: 991px) {
     .footer-items {
         margin-bottom: 30px;
+        margin-left: 5px !important;
+    }
+    .btn_apresentacao{
+        margin-top: 10px !important;
     }
 }
 
 @media (max-width: 575px) {
     .footer-items {
         margin-bottom: 30px;
+        margin-left: 5px !important;
     }
 
     .footer-area .col-12:last-of-type .footer-items {
         margin-bottom: 0;
+    }
+    .btn_apresentacao{
+        margin-top: 10px !important;
     }
 }
 

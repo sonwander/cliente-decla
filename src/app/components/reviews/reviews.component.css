@@ -1,0 +1,4 @@
+.single-testimonial img, .single-testimonial-thumb img, .team-photo, .team-photo img, .team-photo::before, .team-photo::after {
+    border-radius: 0;
+    border: none;
+}

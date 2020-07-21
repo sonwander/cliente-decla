@@ -34,8 +34,8 @@ import { BlogDetailsRightSidebarComponent } from './components/blogs/blog-detail
 
 
 const routes: Routes = [
-  {path: 'theme-two', component: ThemeOneComponent},
-  {path: '', component: ThemeTwoComponent},
+  {path: '', component: ThemeOneComponent},
+  {path: 'theme-two', component: ThemeTwoComponent},
   {path: 'theme-three', component: ThemeThreeComponent},
   {path: 'theme-four', component: ThemeFourComponent},
   {path: 'theme-five', component: ThemeFiveComponent},
